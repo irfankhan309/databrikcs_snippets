@@ -6,4 +6,5 @@ def main():
     return True
 
 
-
+def ddl_create():
+    return True
